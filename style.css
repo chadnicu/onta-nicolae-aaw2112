@@ -1,0 +1,19 @@
+* {
+    margin: none;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.absolute-center {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+}
